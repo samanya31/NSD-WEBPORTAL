@@ -11,6 +11,7 @@ export default {
         'gov-gray': '#F9FAFB',
         'accent-emerald': '#10B981',
         'accent-amber': '#F59E0B',
+        'nsd-beige': '#FFF8F0',
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
@@ -22,7 +23,7 @@ export default {
         'inner-soft': 'inset 0 2px 4px rgba(0, 0, 0, 0.06)',
       },
       animation: {
-        'fade-in': 'fadeIn 0.3s ease-in-out',
+        'fade-in': 'fadeIn 1.5s ease-in-out',
         'slide-up': 'slideUp 0.4s ease-out',
         'slide-down': 'slideDown 0.3s ease-out',
         'scale-in': 'scaleIn 0.2s ease-out',
